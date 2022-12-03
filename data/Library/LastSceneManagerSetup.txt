@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scene/Scenes/Gorilla/Gorilla Tag/GorillaTagNewVisualsCosmetics.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
